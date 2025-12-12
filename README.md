@@ -7,6 +7,12 @@
 - Studying. Proficient in several languages: C, C#, C++, Java, JavaScript, TypeScript, Go, Rust, Python, ASM, PHP, Pascal. Learning libraries like React, TensorFlow, jQuery, Guava, STL, Boost, and others.
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Slaughterhouse-dev" alt="Profile views" />
+
+</div>
+
+<div align="center">
 <table>
 <tr>
 <td style="border: 2px solid red; padding: 10px;">
@@ -27,7 +33,11 @@
 <b>Language & Tools | Programming language</b>
 </p>
 
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=bash,github,unity,git,py,java,c,cs,cpp,php,lua,go,rust,js,ts,html,css,nodejs,react,angular,figma,obsidian,visualstudio,vscode,htmx)](https://skillicons.dev)
+
+</div>
 
 </td>
 </tr>
