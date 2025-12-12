@@ -1,5 +1,4 @@
-<h1 align="center">Hey I'm Slaughterhouse</h1>
-<h2 align="center">Middle Developer In the company</h2>
+<h1 align="center">Hey I'm Slaughterhouse | Middle Developer In the company</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Slaughterhouse-dev">
@@ -13,7 +12,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-## GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="Slaughterhouse-dev's GitHub Stats" width="49%" />
 </p>
