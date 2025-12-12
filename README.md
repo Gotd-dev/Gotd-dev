@@ -19,6 +19,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="Slaughterhouse-dev's GitHub Stats" width="60%" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 <td>
 <p align="center">
   Language & Tools | Programming language
