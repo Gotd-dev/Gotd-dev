@@ -1,4 +1,5 @@
-# Slaughterhouse
+<h1 align="center">Hey I'm Slaughterhouse</h1>
+
 ### About Me - Middle Developer In the company
 - Developer in Js, C++, C, Python, TypeScript, and other languages, I want to become a really good Full Stack programmer. Every day I work on my project for Cs go. I'm also creating repositories for learning and my own information. In the future, I want to make a project for the browser game moomoo io. For now, my plans are to finish my cheat Moovz and keep learning langu#ages while growing every day with motivation
 
@@ -24,9 +25,16 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&title_color=3b4559&text_color=c9d1d9&icon_color=2d3545&bg_color=13171d&border_color=21262d" alt="Slaughterhouse-dev's GitHub Stats" width="50%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaughterhouse-dev&layout=donut-vertical&title_color=1a1e26&text_color=c9d1d9&icon_color=2d333b&bg_color=13171d&border_color=21262d" alt="Top Languages" width="25%" />
+<table>
+<tr>
+<td style="border: 2px solid red; padding: 10px;" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&title_color=3b4559&text_color=c9d1d9&icon_color=2d3545&bg_color=13171d&border_color=21262d" alt="Slaughterhouse-dev's GitHub Stats" width="100%" />
+</td>
+<td style="border: 2px solid red; padding: 10px;" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaughterhouse-dev&layout=donut-vertical&title_color=1a1e26&text_color=c9d1d9&icon_color=2d333b&bg_color=13171d&border_color=21262d" alt="Top Languages" width="100%" />
+</td>
+</tr>
+</table>
 
 <br/>
 
