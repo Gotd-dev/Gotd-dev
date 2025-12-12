@@ -1,17 +1,17 @@
 <h1 align="center">Hey I'm Slaughterhouse</h1>
 
 ### About Me - Middle Developer In the company
-- Developer in Js, C++, C, Python, TypeScript, and other languages, I want to become a really good Full Stack programmer. Every day I work on my project for Cs go. I'm also creating repositories for learning and my own information. In the future, I want to make a project for the browser game moomoo io. For now, my plans are to finish my cheat Moovz and keep learning languages while growing every day with motivation
+- Developer in Js, C++, C, Python, TypeScript, and other languages, I want to become a really good Full Stack programmer. Every day I work on my project for Cs go. I'm also creating repositories for learning and my own information. In the future, I want to make a project for the browser game moomoo io. For now, my plans are to finish my cheat Moovz and keep learning langu#ages while growing every day with motivation
 
 ### My Focus Areas
 - Studying. Proficient in several languages: C, C#, C++, Java, JavaScript, TypeScript, Go, Rust, Python, ASM, PHP, Pascal. Learning libraries like React, TensorFlow, jQuery, Guava, STL, Boost, and others.
 
 <tr>
   
-<picture>
+<picture style="border: 2px solid #ccc; display: block; padding: 10px;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" style="border: 2px solid #666;" />
 </picture>
 
 
@@ -20,9 +20,12 @@
 </p>
 
 <td>
-<p align="center">
+<p align="center" style="border: 1px solid #ccc; padding: 5px; display: inline-block;">
   Language & Tools | Programming language
+</p>
 
+<p align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=bash,github,unity,git,py,java,c,cs,cpp,php,lua,go,rust,js,ts,html,css,nodejs,react,angular,figma,obsidian,visualstudio,vscode,htmx)](https://skillicons.dev)
 
 </p>
@@ -30,4 +33,3 @@
 </td>
 
 </tr>
-
