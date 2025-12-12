@@ -20,7 +20,7 @@
 <p align="center">
   Language & Tools | Programming language
 
-[![My Skills](https://skillicons.dev/icons?i=bash,github,unity,git,py,java,c,cs,cpp,php,go,rust,lua,js,ts,html,css,nodejs,react,angular,figma,obsidian,visualstudio,vscode,htmx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,github,unity,git,py,java,c,cs,cpp,php,lua,go,rust,js,ts,html,css,nodejs,react,angular,figma,obsidian,visualstudio,vscode,htmx)](https://skillicons.dev)
 
 </p>
 
