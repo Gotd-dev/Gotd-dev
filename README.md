@@ -14,16 +14,19 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="Slaughterhouse-dev's GitHub Stats" width="60%" />
+</p>
+
 <p align="center"> 
   ## Language & Tools
   > ## Programming language
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="Slaughterhouse-dev's GitHub Stats" width="60%" />
-</p>
-
 [![My Skills](https://skillicons.dev/icons?i=bash,github,git,ts,py,java,c,cs,cpp,php,go,rust,lua,js,html,css,nodejs,react,angular,unity,figma,obsidian,htmx,visualstudio,vscode)](https://skillicons.dev)
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Slaughterhouse-dev">
