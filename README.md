@@ -8,7 +8,7 @@
 
 <tr>
   
-<picture style="border: 2px solid #ccc; display: block; padding: 10px;">
+<picture style="border: 2px solid #fff; display: block; padding: 10px;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" style="border: 2px solid #666;" />
