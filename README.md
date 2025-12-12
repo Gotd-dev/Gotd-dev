@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - Developer in Js, C++, C, Python, TypeScript, and other languages, I want to become a really good Full Stack programmer. Every day I work on my project for Cs go. I'm also creating repositories for learning and my own information. In the future, I want to make a project for the browser game moomoo io. For now, my plans are to finish my cheat Moovz and keep learning languages while growing every day with motivation
 
@@ -20,10 +18,6 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="Slaughterhouse-dev's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Slaughterhouse-dev&theme=dracula&hide_border=true&cache_seconds=86400" alt="Slaughterhouse-dev's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Slaughterhouse-dev&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Slaughterhouse's GitHub Trophies" />
 </p>
 
 
@@ -44,15 +38,9 @@
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaughterhouse-dev&layout=compact&theme=dracula&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
