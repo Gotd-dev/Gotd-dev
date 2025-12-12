@@ -6,30 +6,30 @@
 ### My Focus Areas
 - Studying. Proficient in several languages: C, C#, C++, Java, JavaScript, TypeScript, Go, Rust, Python, ASM, PHP, Pascal. Learning libraries like React, TensorFlow, jQuery, Guava, STL, Boost, and others.
 
-<table align="center">
+<div align="center">
+<table>
 <tr>
-<td align="center" style="border: 2px solid #444;">
-  
+<td style="border: 2px solid red; padding: 10px;">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-</tr>
-</table>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="Slaughterhouse-dev's GitHub Stats" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="Slaughterhouse-dev's GitHub Stats" width="100%" />
+
+<br/>
+
+<p style="border: 1px solid red; padding: 5px; margin: 10px;">
+<b>Language & Tools | Programming language</b>
 </p>
-
-<table align="center">
-<tr>
-  
-**Language & Tools | Programming language**
 
 [![My Skills](https://skillicons.dev/icons?i=bash,github,unity,git,py,java,c,cs,cpp,php,lua,go,rust,js,ts,html,css,nodejs,react,angular,figma,obsidian,visualstudio,vscode,htmx)](https://skillicons.dev)
 
 </td>
 </tr>
 </table>
+</div>
