@@ -39,7 +39,7 @@
 
 <br/>
 
-<div align="right" style="margin-top: -30px;">
+<div align="right" style="margin-top: 30px;">
   
 <img src="https://komarev.com/ghpvc/?username=Slaughterhouse-dev" alt="Profile views" />
 
