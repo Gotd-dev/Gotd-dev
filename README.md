@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Slaughterhouse</h1>
-<h3 align="center">Middle Developer In the company</h3>
+<h1 align="center">Hey I'm Slaughterhouse</h1>
+<h2 align="center">Middle Developer In the company</h2>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Slaughterhouse-dev">
