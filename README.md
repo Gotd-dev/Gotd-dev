@@ -1,4 +1,4 @@
-<h2 align="center">Hey I'm Slaughterhouse | Middle Developer In the company</h2>
+<h3 align="center">Hey I'm Slaughterhouse | Middle Developer In the company</h3>
 
 ## About Me
 
