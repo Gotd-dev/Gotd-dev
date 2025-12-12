@@ -1,11 +1,9 @@
 <h1 align="center">Hey I'm Slaughterhouse</h1>
 
-## About Me
-
-### Middle Developer In the company
+### About Me - Middle Developer In the company
 - Developer in Js, C++, C, Python, TypeScript, and other languages, I want to become a really good Full Stack programmer. Every day I work on my project for Cs go. I'm also creating repositories for learning and my own information. In the future, I want to make a project for the browser game moomoo io. For now, my plans are to finish my cheat Moovz and keep learning languages while growing every day with motivation
 
-## My Focus Areas
+### My Focus Areas
 - Studying. Proficient in several languages: C, C#, C++, Java, JavaScript, TypeScript, Go, Rust, Python, ASM, PHP, Pascal. Learning libraries like React, TensorFlow, jQuery, Guava, STL, Boost, and others.
 
 <picture>
