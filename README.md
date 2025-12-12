@@ -18,8 +18,7 @@
 </p>
 
 <p align="center">
-  - Language & Tools |
-  - Programming language
+  Language & Tools | Programming language
 
 [![My Skills](https://skillicons.dev/icons?i=bash,github,git,ts,py,java,c,cs,cpp,php,go,rust,lua,js,html,css,nodejs,react,angular,unity,figma,obsidian,htmx,visualstudio,vscode)](https://skillicons.dev)
 
