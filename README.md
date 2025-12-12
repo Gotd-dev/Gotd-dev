@@ -6,7 +6,6 @@
 
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=Slaughterhouse-dev" alt="Profile views" />
 </div>
 
 <div align="center">
@@ -40,6 +39,8 @@
 <div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=bash,github,unity,git,py,java,c,cs,cpp,php,lua,go,rust,js,ts,html,css,nodejs,react,angular,figma,obsidian,visualstudio,vscode,htmx)](https://skillicons.dev)
+
+<img src="https://komarev.com/ghpvc/?username=Slaughterhouse-dev" alt="Profile views" />
 
 </div>
 
