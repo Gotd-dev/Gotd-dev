@@ -4,7 +4,6 @@
 
 - Developer in Js, C++, C, Python, TypeScript, and other languages, I want to become a really good Full Stack programmer. Every day I work on my project for Cs go. I'm also creating repositories for learning and my own information. In the future, I want to make a project for the browser game moomoo io. For now, my plans are to finish my cheat Moovz and keep learning languages while growing every day with motivation
 
-
 ## My Focus Areas
 - Studying. Proficient in several languages: C, C#, C++, Java, JavaScript, TypeScript, Go, Rust, Python, ASM, PHP, Pascal. Learning libraries like React, TensorFlow, jQuery, Guava, STL, Boost, and others.
 
@@ -24,9 +23,7 @@
   > ## Programming language
 </p>
 
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=bash,github,git,ts,py,java,c,cs,cpp,php,go,rust,lua,js,html,css,nodejs,react,angular,unity,figma,obsidian,htmx,visualstudio,vscode)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=bash,github,git,ts,py,java,c,cs,cpp,php,go,rust,lua,js,html,css,nodejs,react,angular,unity,figma,obsidian,htmx,visualstudio,vscode)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Slaughterhouse-dev">
