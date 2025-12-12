@@ -28,6 +28,12 @@
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaughterhouse-dev&layout=compact&title_color=1a1e26&text_color=c9d1d9&icon_color=2d333b&bg_color=13171d&border_color=21262d" alt="Top Languages" width="75%" />
+
+<br/>
+
+<br/>
+
 <p style="border: 1px solid red; padding: 5px; margin: 10px;">
 <b>Language & Tools | Programming language</b>
 </p>
