@@ -37,13 +37,13 @@
 
 </div>
 
-<br/>
-
 <div align="right">
   
 <img src="https://komarev.com/ghpvc/?username=Slaughterhouse-dev" alt="Profile views" />
 
 </div>
+
+<br/>
 
 </td>
 </tr>
