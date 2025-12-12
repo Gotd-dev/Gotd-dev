@@ -8,13 +8,15 @@
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Slaughterhouse-dev" alt="Profile views" />
+
 </div>
 
 <div align="center">
 <table>
 <tr>
 <td style="border: 2px solid red; padding: 10px;">
-  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -23,7 +25,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="Slaughterhouse-dev's GitHub Stats" width="75%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&theme=dark" alt="Slaughterhouse-dev's GitHub Stats" width="75%" />
 
 <br/>
 
@@ -34,8 +36,6 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=bash,github,unity,git,py,java,c,cs,cpp,php,lua,go,rust,js,ts,html,css,nodejs,react,angular,figma,obsidian,visualstudio,vscode,htmx)](https://skillicons.dev)
-
-<img src="https://komarev.com/ghpvc/?username=Slaughterhouse-dev" alt="Profile views" />
 
 </div>
 
