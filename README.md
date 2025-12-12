@@ -25,7 +25,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=00ff00&bg_color=000000" alt="Slaughterhouse-dev's GitHub Stats" width="75%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&title_color=1a1e26&text_color=c9d1d9&icon_color=2d333b&bg_color=13171d&border_color=21262d" alt="Slaughterhouse-dev's GitHub Stats" width="75%" />
 
 <br/>
 
