@@ -8,8 +8,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Slaughterhouse-dev" alt="Profile views" />
-
 </div>
 
 <div align="center">
@@ -17,6 +15,8 @@
 <tr>
 <td style="border: 2px solid red; padding: 10px;">
 
+<img src="https://komarev.com/ghpvc/?username=Slaughterhouse-dev" alt="Profile views" />
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
