@@ -1,34 +1,70 @@
-<div align="center">
+<!-- Центрирование всего контента -->
+<p align="center">
+  <!-- Никнейм -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=C6A0F6&center=true&vCenter=true&width=435&lines=RaZoshi;Catppuccin+Frappe+%7C+Mauve+Vibes" alt="Typing SVG" />
+</p>
 
-<!-- Баннер/заголовок -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=303446&height=200&section=header&text=RaZoshi&fontColor=ca9ee6&fontSize=70&animation=fadeIn)
+<!-- Мини-баннер -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=303446&height=80&section=header&text=Welcome%20to%20my%20cave&fontColor=C6A0F6&fontSize=24&animation=fadeIn" />
+</p>
 
-<!-- Статистика -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaZoshi&show_icons=true&theme=catppuccin-frappe&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&icon_color=ca9ee6&border_color=414559)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaZoshi&layout=compact&theme=catppuccin-frappe&bg_color=303446&title_color=ca9ee6&text_color=c6d0f5&border_color=414559)
+---
 
-<!-- Трофеи -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=RaZoshi&theme=catppuccin&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=7)
+## 🐾 Немного обо мне
 
-<!-- Полоска активности -->
-![GitHub Streak](https://streak-stats.demolab.com?user=RaZoshi&theme=catppuccin-frappe&background=303446&border=414559&stroke=414559&ring=ca9ee6&fire=ca9ee6&currStreakNum=c6d0f5&sideNums=ca9ee6&currStreakLabel=ca9ee6&sideLabels=c6d0f5&dates=a5adce)
+- 🎮 Люблю писать скрипты, моды и наводить красоту в интерфейсах.  
+- 🔧 Сейчас экспериментирую с темами в стиле Catppuccin Frappé.  
+- 🐈 Никнейм: **RaZoshi**.
 
-<!-- Стек технологий -->
-### 🛠️ Технологический стек
-![Python](https://img.shields.io/badge/Python-414559?style=for-the-badge&logo=python&logoColor=8caaee)
-![JavaScript](https://img.shields.io/badge/JavaScript-414559?style=for-the-badge&logo=javascript&logoColor=f2d5cf)
-![React](https://img.shields.io/badge/React-414559?style=for-the-badge&logo=react&logoColor=8caaee)
-![Node.js](https://img.shields.io/badge/Node.js-414559?style=for-the-badge&logo=node.js&logoColor=a6d189)
-![Git](https://img.shields.io/badge/Git-414559?style=for-the-badge&logo=git&logoColor=e78284)
-![Docker](https://img.shields.io/badge/Docker-414559?style=for-the-badge&logo=docker&logoColor=8caaee)
+---
 
-<!-- Контакты -->
-### 📫 Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-414559?style=for-the-badge&logo=telegram&logoColor=ca9ee6)](https://t.me/)
-[![Email](https://img.shields.io/badge/Email-414559?style=for-the-badge&logo=gmail&logoColor=ca9ee6)](mailto:)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-414559?style=for-the-badge&logo=linkedin&logoColor=ca9ee6)](https://linkedin.com/in/)
+## 🎨 Стек и игрушки
 
-<!-- Анимированная строка -->
-![Snake animation](https://github.com/RaZoshi/RaZoshi/blob/output/github-contribution-grid-snake.svg?theme=catppuccin-frappe)
+<p align="center">
+  <!-- Примеры, подставь свои -->
+  <img src="https://img.shields.io/badge/JavaScript-303446?style=for-the-badge&logo=javascript&logoColor=C6A0F6" />
+  <img src="https://img.shields.io/badge/TypeScript-303446?style=for-the-badge&logo=typescript&logoColor=C6A0F6" />
+  <img src="https://img.shields.io/badge/HTML5-303446?style=for-the-badge&logo=html5&logoColor=C6A0F6" />
+  <img src="https://img.shields.io/badge/CSS3-303446?style=for-the-badge&logo=css3&logoColor=C6A0F6" />
+  <img src="https://img.shields.io/badge/Node.js-303446?style=for-the-badge&logo=nodedotjs&logoColor=C6A0F6" />
+</p>
 
-</div>
+---
+
+## 📊 GitHub статистика
+
+<p align="center">
+  <!-- Основная стата -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RaZoshi&show_icons=true&theme=tokyonight&bg_color=30,181825,303446&title_color=C6A0F6&text_color=cdd6f4&icon_color=C6A0F6&hide_border=true" 
+    alt="GitHub Stats" 
+    height="165"
+  />
+  <!-- Языки -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaZoshi&layout=compact&theme=tokyonight&bg_color=30,181825,303446&title_color=C6A0F6&text_color=cdd6f4&hide_border=true" 
+    alt="Top Languages" 
+    height="165"
+  />
+</p>
+
+---
+
+## 🔥 Streak и активность
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=RaZoshi&theme=dark&background=181825&border=181825&ring=C6A0F6&fire=C6A0F6&currStreakLabel=C6A0F6" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+---
+
+## ☕ Catppuccin Frappé Mood
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Catppuccin%20Frappe-303446?style=for-the-badge&logo=github&logoColor=C6A0F6" />
+  <img src="https://img.shields.io/badge/Accent-Mauve-C6A0F6?style=for-the-badge" />
+</p>
