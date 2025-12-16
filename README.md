@@ -1,14 +1,3 @@
-<a href="https://github.com/Slaughterhouse-dev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev" />
-</a>
-<a href="https://github.com/Slaughterhouse-dev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Slaughterhouse-dev&layout=compact&langs_count=12&card_width=320" />
-</a>
-
-
-<a href="https://github.com/Slaughterhouse-dev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/Slaughterhouse-dev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Slaughterhouse-dev&layout=compact&langs_count=8&card_width=320&theme=dark&include_all_commits=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Slaughterhouse-dev&show_icons=true&title_color=3b4559&text_color=c9d1d9&icon_color=2d3545&bg_color=13171d&border_color=21262d" alt="Slaughterhouse-dev's GitHub Stats" height="300" />
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slaughterhouse-dev&layout=donut-vertical&title_color=3b4559&text_color=c9d1d9&icon_color=2d333b&bg_color=13171d&border_color=21262d&langs_count=10" alt="Top Languages" height="300" />
